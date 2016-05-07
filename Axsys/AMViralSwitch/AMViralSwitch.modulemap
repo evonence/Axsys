@@ -1,0 +1,6 @@
+framework module AMViralSwitch {
+  umbrella header "AMViralSwitch-umbrella.h"
+
+  export *
+  module * { export * }
+}
